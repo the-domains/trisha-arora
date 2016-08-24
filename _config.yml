@@ -12,5 +12,9 @@ color:
     - '#CEAFC0'
 layout_spectrum: 0.22140352078713477
 name: Trisha Arora
+navigation:
+  - name: About Trisha
+    url: trishaarora.com
+    type: external
 title: 'Photography, Design, and Code'
 description: by Trisha Arora
