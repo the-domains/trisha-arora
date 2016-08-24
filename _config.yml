@@ -1,16 +1,16 @@
-typography_spectrum: 0.892202784307301
+layout_spectrum: 0.6833200762048364
+typography_spectrum: 0.47552842437289655
 color:
-  brandStrength: 0.366606657858938
-  lightness: 0.9065653102006763
-  saturation: 0.2906677566934377
-  rhythmicContrast: 0.9334702750202268
+  brandStrength: 0.9019807428121567
+  lightness: 0.7858455826062709
+  saturation: 0.9955508669372648
+  rhythmicContrast: 0.882336524548009
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-layout_spectrum: 0.22140352078713477
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
 name: Trisha Arora
 navigation:
   - name: About Trisha
